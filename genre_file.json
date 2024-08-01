@@ -1,0 +1,324 @@
+{
+    "Day Shift": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Comedy"
+    ],
+    "The Sandman": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+    ],
+    "Let Him Go": [
+        "Thriller",
+        "Crime",
+        "Western"
+    ],
+    "Purple Hearts": [
+        "Romance",
+        "Drama"
+    ],
+    "Keep Breathing": [
+        "Action & Adventure"
+    ],
+    "The Gray Man": [
+        "Action",
+        "Thriller"
+    ],
+    "Virgin River": [
+        "Drama"
+    ],
+    "The Sea Beast": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "Stranger Things": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Action & Adventure"
+    ],
+    "Girl in the Picture": [
+        "Documentary"
+    ],
+    "The Man from Toronto": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "The Umbrella Academy": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+    ],
+    "Hustle": [
+        "Drama",
+        "Comedy"
+    ],
+    "Interceptor": [
+        "Action",
+        "Thriller",
+        "Adventure"
+    ],
+    "A Perfect Pairing": [
+        "Comedy",
+        "Romance"
+    ],
+    "Senior Year": [
+        "Comedy"
+    ],
+    "The Lincoln Lawyer": [
+        "Drama",
+        "Crime"
+    ],
+    "Ozark": [
+        "Crime",
+        "Drama"
+    ],
+    "The Suicide Squad": [
+        "Action",
+        "Comedy",
+        "Adventure"
+    ],
+    "365 Days: This Day": [
+        "Romance",
+        "Drama"
+    ],
+    "Cleveland Abduction": [
+        "Drama",
+        "Crime",
+        "TV Movie"
+    ],
+    "Anatomy of a Scandal": [
+        "Drama"
+    ],
+    "Space Jam: A New Legacy": [
+        "Family",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Bridgerton": [
+        "Drama"
+    ],
+    "Jumanji: The Next Level": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Bloodshot": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+    ],
+    "The Adam Project": [
+        "Adventure",
+        "Science Fiction"
+    ],
+    "PIECES OF HER": [
+        "Crime",
+        "Mystery",
+        "Drama"
+    ],
+    "The Weekend Away": [
+        "Thriller",
+        "Mystery"
+    ],
+    "Vikings: Valhalla": [
+        "Action & Adventure",
+        "Drama",
+        "War & Politics"
+    ],
+    "This Is 40": [
+        "Comedy"
+    ],
+    "Inventing Anna": [
+        "Drama"
+    ],
+    "Seventh Son": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "The Tinder Swindler": [
+        "Documentary",
+        "Crime"
+    ],
+    "Sweet Magnolias": [
+        "Drama"
+    ],
+    "All of Us Are Dead": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+    ],
+    "Mortal Kombat": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+    ],
+    "Copshop": [
+        "Thriller",
+        "Crime",
+        "Action"
+    ],
+    "Manifest": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+    ],
+    "Spider-Man: Far from Home": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+    ],
+    "Don't Look Up": [
+        "Comedy",
+        "Science Fiction",
+        "Drama"
+    ],
+    "Emily in Paris": [
+        "Drama",
+        "Comedy"
+    ],
+    "The Witcher": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+    ],
+    "The Unforgivable": [
+        "Drama",
+        "Crime"
+    ],
+    "Money Heist": [
+        "Crime",
+        "Drama"
+    ],
+    "The Power of the Dog": [
+        "Drama",
+        "Western"
+    ],
+    "Lost in Space": [
+        "Sci-Fi & Fantasy",
+        "Comedy"
+    ],
+    "The Little Things": [
+        "Drama",
+        "Crime",
+        "Thriller"
+    ],
+    "Selling Sunset": [
+        "Reality"
+    ],
+    "Red Notice": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "Tiger King": [
+        "Documentary",
+        "Crime"
+    ],
+    "Maid": [
+        "Drama"
+    ],
+    "Cold Pursuit": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Comedy"
+    ],
+    "You": [
+        "Drama"
+    ],
+    "Midway": [
+        "Action",
+        "Drama",
+        "War",
+        "History"
+    ],
+    "Sonic the Hedgehog": [
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Family"
+    ],
+    "Squid Game": [
+        "Action & Adventure",
+        "Mystery",
+        "Drama"
+    ],
+    "The Guilty": [
+        "Drama",
+        "Thriller"
+    ],
+    "Wonder Woman 1984": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "Superintelligence": [
+        "Comedy",
+        "Science Fiction",
+        "Romance"
+    ],
+    "Kate": [
+        "Action"
+    ],
+    "Sex Education": [
+        "Comedy",
+        "Drama"
+    ],
+    "Clickbait": [
+        "Drama",
+        "Crime",
+        "Mystery"
+    ],
+    "He's All That": [
+        "Comedy",
+        "Romance"
+    ],
+    "Sweet Girl": [
+        "Action",
+        "Thriller",
+        "Drama"
+    ],
+    "Outer Banks": [
+        "Action & Adventure",
+        "Drama",
+        "Mystery"
+    ],
+    "The Kissing Booth 3": [
+        "Romance",
+        "Comedy"
+    ],
+    "Joker": [
+        "Crime",
+        "Thriller",
+        "Drama"
+    ],
+    "Blood Red Sky": [
+        "Horror",
+        "Thriller",
+        "Action"
+    ],
+    "Harry Potter and the Sorcerer's Stone": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "White Boy Rick": [
+        "Crime",
+        "Drama"
+    ],
+    "Gemini Man": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+    ],
+    "Sex/Life": [
+        "Comedy",
+        "Drama"
+    ]
+}
